@@ -1,0 +1,14 @@
+{
+  "block.artifice2.blast_wall_basic": "Basic Blast Wall",
+  "block.artifice2.blast_wall_reinforced": "Reinforced Blast Wall",
+  "block.artifice2.blast_wall_industrial": "Industrial Blast Wall",
+  "block.artifice2.blast_wall_advanced": "Advanced Blast Wall",
+  "tooltip.artifice2.blast_wall_basic": "Reinforced Stone Bricks",
+  "tooltip.artifice2.blast_wall_reinforced": "Reinforced Bricks",
+  "tooltip.artifice2.blast_wall_industrial": "Obsidian Bricks",
+  "tooltip.artifice2.blast_wall_advanced": "Steel Plating",
+  "tooltip.artifice2.blast_wall_basic.flavour": "A good first attempt",
+  "tooltip.artifice2.blast_wall_reinforced.flavour": "Hardened bricks, eh?",
+  "tooltip.artifice2.blast_wall_industrial.flavour": "There is always progress to be made...",
+  "tooltip.artifice2.blast_wall_advanced.flavour": "...and progress always provides."
+}
